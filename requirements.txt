@@ -1,0 +1,9 @@
+google-generativeai
+openai
+pandas
+tabulate
+timeout_decorator
+llama-cpp-python
+transformers
+torch
+evalplus
